@@ -3,3 +3,30 @@
     width: 130px;
     height: 130px;
 }
+
+#yrden:hover {
+    background-color: pink;
+}
+
+#aard:hover {
+    background-color: blue;
+}
+
+#igni:hover {
+    background-color: red;
+}
+
+#quen:hover {
+    background-color: yellow;
+}
+
+#axii:hover {
+    background-color: green;
+}
+.labels>.label {
+    font-size: 14px;
+}
+
+.six wide column {
+    font-size: 14px;
+}
