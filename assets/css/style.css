@@ -30,3 +30,12 @@
 .six wide column {
     font-size: 14px;
 }
+
+#wave svg {
+  padding-top: calc((100% - 1100px));
+  color: linear-gradient(45deg, #000, #490303);
+  height: 10em;
+  background: linear-gradient(45deg, #000, #490303);
+  position: absolute;
+  width: 100%;
+}
