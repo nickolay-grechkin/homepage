@@ -32,10 +32,16 @@
 }
 
 #wave svg {
-  padding-top: calc((100% - 1100px));
+  padding-top: calc((100% - 1200px));
   color: linear-gradient(45deg, #000, #490303);
   height: 10em;
   background: linear-gradient(45deg, #000, #490303);
   position: absolute;
   width: 100%;
+}
+
+.image {
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
 }
