@@ -2,55 +2,54 @@
     border-radius: 100%;
     width: 130px;
     height: 130px;
-  }
-  
-  #yrden:hover {
+}
+
+#yrden:hover {
     background-color: pink;
-  }
-  
-  #aard:hover {
+}
+
+#aard:hover {
     background-color: blue;
-  }
-  
-  #igni:hover {
+}
+
+#igni:hover {
     background-color: red;
-  }
-  
-  #quen:hover {
+}
+
+#quen:hover {
     background-color: yellow;
-  }
-  
-  #axii:hover {
+}
+
+#axii:hover {
     background-color: green;
-  }
-  
-  .labels > .label {
+}
+.labels>.label {
     font-size: 14px;
-  }
-  
-  .six {
+}
+
+.six wide column {
     font-size: 14px;
-  }
-  
-  #wave svg {
-    color: linear-gradient(45deg, #000, #490303);
-    padding-top: calc((100% - 700px));
-    height: 10em;
-    background: linear-gradient(45deg, #000, #490303);
-    position: absolute;
-    width: 100%;
-  }
-  
-  .image {
+}
+
+#wave svg {
+  color: linear-gradient(45deg, #000, #490303);
+  padding-top: calc((100% - 700px));
+  height: 10em;
+  background: linear-gradient(45deg, #000, #490303);
+  position: absolute;
+  width: 100%;
+}
+
+.image {
     width: 100%;
     max-width: 400px;
     height: 200px;
-  }
-  
-  .color.black::before {
+}
+
+.color.black::before {
     background-color: black;
-  }
-  
-  .color.darkred::before {
-    background-color: rgb(73, 3, 7);
-  }
+}
+
+.color.darkred::before {
+    background-color:rgb(73, 3, 7);
+}
