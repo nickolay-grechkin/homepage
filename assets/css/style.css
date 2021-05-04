@@ -32,7 +32,8 @@
 }
 
 #wave svg {
-  padding-top: calc((100% - 1200px));
+  color: linear-gradient(45deg, #000, #490303);
+  padding-top: calc((100% - 700px));
   height: 10em;
   background: linear-gradient(45deg, #000, #490303);
   position: absolute;
@@ -50,5 +51,5 @@
 }
 
 .color.darkred::before {
-    background-color:rgb(73, 3, 3);
+    background-color:rgb(73, 3, 7);
 }
