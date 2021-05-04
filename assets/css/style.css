@@ -1,0 +1,56 @@
+.avatar {
+    border-radius: 100%;
+    width: 130px;
+    height: 130px;
+  }
+  
+  #yrden:hover {
+    background-color: pink;
+  }
+  
+  #aard:hover {
+    background-color: blue;
+  }
+  
+  #igni:hover {
+    background-color: red;
+  }
+  
+  #quen:hover {
+    background-color: yellow;
+  }
+  
+  #axii:hover {
+    background-color: green;
+  }
+  
+  .labels > .label {
+    font-size: 14px;
+  }
+  
+  .six {
+    font-size: 14px;
+  }
+  
+  #wave svg {
+    color: linear-gradient(45deg, #000, #490303);
+    padding-top: calc((100% - 700px));
+    height: 10em;
+    background: linear-gradient(45deg, #000, #490303);
+    position: absolute;
+    width: 100%;
+  }
+  
+  .image {
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
+  }
+  
+  .color.black::before {
+    background-color: black;
+  }
+  
+  .color.darkred::before {
+    background-color: rgb(73, 3, 7);
+  }
