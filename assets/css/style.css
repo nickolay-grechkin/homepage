@@ -1,34 +1,35 @@
 .avatar {
-    border-radius: 100%;
-    width: 130px;
-    height: 130px;
+  border-radius: 100%;
+  width: 130px;
+  height: 130px;
 }
 
 #yrden:hover {
-    background-color: pink;
+  background-color: pink;
 }
 
 #aard:hover {
-    background-color: blue;
+  background-color: blue;
 }
 
 #igni:hover {
-    background-color: red;
+  background-color: red;
 }
 
 #quen:hover {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 #axii:hover {
-    background-color: green;
-}
-.labels>.label {
-    font-size: 14px;
+  background-color: green;
 }
 
-.six wide column {
-    font-size: 14px;
+.labels > .label {
+  font-size: 14px;
+}
+
+.six {
+  font-size: 14px;
 }
 
 #wave svg {
@@ -41,15 +42,17 @@
 }
 
 .image {
-    width: 100%;
-    max-width: 400px;
-    height: 200px;
+  width: 100%;
+  max-width: 400px;
+  height: 200px;
 }
 
 .color.black::before {
-    background-color: black;
+  background-color: black;
 }
 
 .color.darkred::before {
-    background-color:rgb(73, 3, 7);
+  background-color: rgb(73, 3, 7);
 }
+
+
